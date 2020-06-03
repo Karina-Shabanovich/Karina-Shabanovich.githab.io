@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=UTF-8>
+    <title>DOSTIJENIYA</title>
+<style>
+body
+{
+background: #e7c1e5;
+}
+</style>
+  </head>
+  <body>
+    <p style="text-align: center; font-weight: bold; font-size: 0.5cm">На энергосбережении мы теперь можем позволить себе всё!</p>
+<p style="text-align: left; font-weight: bold; font-size: 0.5cm">Наши выпускники до курсов</p>
+<img src='bomj.jpg' width=200>
+<img src='para.jpg' width=150>
+<p style="text-align: left; font-weight: bold; font-size: 0.5cm">Наши выпускники после курсов</p>
+<img src='mujik.jpg' width=420>
+<img src='vodopad.jpg' width=395>
+<p style="text-align: left; font-weight: bold; font-size: 0.5cm">Как видно по фотографиям мы тут не разводим людей, а реально им помогаем!</p>
+  </body>
+</html>
